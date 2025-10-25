@@ -1,0 +1,26 @@
+Coke sales Analysis 
+
+Data available- sales based on retailer and brand per region 
+Total region- Midwest, Northeast, South, Southeast, West
+Retails available- Bevco, Dreamco, Fizzysip, Sodapop
+Beverage brand- Coca-cola, Dasani water, Diet coke, Fanta, Powerade, Sprite
+
+Analysis-
+1-maximum sale is in the month of july and dec 
+2-maximum sale come from west region followed by northeast region
+3-maximum sales is from sodapop retailer followed by fizzysip
+4-DreamCo retailer has the lowest sales 
+5-maximum sales is of coca-cola brand followed by dasani water
+6-Fanta has the lowest sales 
+7-maximum unit is sold from coco-cola brand followed by dasani water and diet coke
+
+Things that can be done to improve sales- 
+
+1-Different brand can organize target based on region and retailers so that the retailer having lowest sales can be focused 
+2-Retailer showing highest sales in a year to be given bonus 
+3-increasing the unit sold of coca-cola and Dasani water has the same is showing highest sales and checking the demand in different region  
+
+
+
+
+
